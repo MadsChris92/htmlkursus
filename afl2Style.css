@@ -1,0 +1,67 @@
+body{
+    background-color: white;
+}
+
+nav {
+    background-color: aliceblue;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+a{
+    font-style: italic;
+}
+li{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: inline;
+    color: black;
+}
+h1{
+    color: black;
+}
+
+h2{
+    color: black;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+
+    font-size: medium;
+    font-style: italic;
+    color: black;
+}
+aside{
+    background-color: aliceblue;
+    float: right;
+    width: 29%;
+    display: block;
+    text-align: center;
+}
+section{
+    width: 70%;
+    background: aliceblue;
+}
+article{
+    font-style: italic;
+    padding: 10px;
+}
+
+body{
+    padding: 20px;
+    margin: 20px;
+}
+div.name{
+    text-align: center;
+    background-color: aliceblue;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
