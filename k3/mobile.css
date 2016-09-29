@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    margin-top: 1%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.outerdiv{
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.item{
+    justify-content: center;
+    padding : 12px 0px;
+    width: 100%;
+    text-align: center;
+    border-bottom: none;
+    border: 1px solid #999;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.left{
+    border-radius: 12px 12px 0 0px;
+}
+
+.right{
+    border-radius: 0 0 12px 12px;
+}
+
+.leftsection{
+    width: 100%;
+}
+
+.rightaside{
+    margin-left: 1%;
+    margin-top: 3%;
+    width: 100%;
+}

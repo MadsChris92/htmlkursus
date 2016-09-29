@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    margin-top: 1%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    padding : 12px 32px;
+    width: 80px;
+    text-align: center;
+    border-bottom: none;
+    border: 1px solid #999;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.left{
+    border-radius: 12px 0 0 12px;
+}
+
+.right{
+    border-radius: 0 12px 12px 0;
+}
+
+.leftsection{
+    width: 40%;
+}
+
+.rightaside{
+    margin-left: 1%;
+    margin-top: 3%;
+    width: 40%;
+}

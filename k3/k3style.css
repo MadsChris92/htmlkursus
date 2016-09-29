@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.item{
+    padding : 12px 32px;
+    width: 80px;
+    text-align: center;
+    border-bottom: none;
+    border: 1px solid #999;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+.left{
+    border-radius: 12px 0 0 12px;
+}
+
+.right{
+    border-radius: 0 12px 12px 0;
+}
